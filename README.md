@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![skillset](github_banner.jpg)
+🌱 I’m currently learning AWS, react native, express.js, MongoDB & mongoose
 <!--
 **pokumars/pokumars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
