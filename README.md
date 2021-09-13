@@ -1,5 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently learning AWS, react native, express.js, MongoDB & mongoose
+### 🌱 I’m currently learning Typescript, react native, express.js
+### 🔭 I’m currently working on a react native, TypeScript app
+
 ![skillset](github_banner.jpg)
 
 <!--
