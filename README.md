@@ -1,6 +1,8 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Typescript, react native, express.js
-### 🔭 I’m currently working on a react native, TypeScript app
+### I just came back from the army
+### 🌱 I’m currently building a Typescript, express.js react MongoDB app
+### 💬 Ask me about real estate in Finland since I am actively learning about it and also how to renovate
+
 
 ![skillset](github_banner.jpg)
 
