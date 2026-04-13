@@ -3,8 +3,7 @@
 
 **Building 12 startups in 12 months. Currently on #2.**
 
-I quit my job 2 months ago to go all in on building things. Based in Finland,
-heading to North America. Looking for a cofounder worth the next 10+ years.
+I quit my job 2 months ago to go all in on building things. Looking for a cofounder worth the next 10+ years.
 
 ---
 
